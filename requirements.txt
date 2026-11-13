@@ -1,0 +1,4 @@
+apache-airflow==2.9.3
+duckdb==1.0.0
+pyarrow
+requests
